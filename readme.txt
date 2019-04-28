@@ -7,3 +7,4 @@ Connect github repository
 now is dev.
 create a new branch is quick and simple.
 vim readme
+git stash
